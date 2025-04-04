@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jacob\\source\\repos\\RecommenderProject\\backend\\RecommenderProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{027E3586-DA73-40E2-B38A-DF7F4D250314}|RecommenderProject\\RecommenderProject.csproj|c:\\users\\jacob\\source\\repos\\recommenderproject\\backend\\recommenderproject\\recommenderproject\\pythonmodels\\get_content_recs.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{027E3586-DA73-40E2-B38A-DF7F4D250314}|RecommenderProject\\RecommenderProject.csproj|solutionrelative:recommenderproject\\pythonmodels\\get_content_recs.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027E3586-DA73-40E2-B38A-DF7F4D250314}|RecommenderProject\\RecommenderProject.csproj|c:\\users\\jacob\\source\\repos\\recommenderproject\\backend\\recommenderproject\\recommenderproject\\controllers\\recommendationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027E3586-DA73-40E2-B38A-DF7F4D250314}|RecommenderProject\\RecommenderProject.csproj|solutionrelative:recommenderproject\\controllers\\recommendationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027E3586-DA73-40E2-B38A-DF7F4D250314}|RecommenderProject\\RecommenderProject.csproj|c:\\users\\jacob\\source\\repos\\recommenderproject\\backend\\recommenderproject\\recommenderproject\\pythonmodels\\get_collaborative_recs_user.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{027E3586-DA73-40E2-B38A-DF7F4D250314}|RecommenderProject\\RecommenderProject.csproj|solutionrelative:recommenderproject\\pythonmodels\\get_collaborative_recs_user.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027E3586-DA73-40E2-B38A-DF7F4D250314}|RecommenderProject\\RecommenderProject.csproj|c:\\users\\jacob\\source\\repos\\recommenderproject\\backend\\recommenderproject\\recommenderproject\\pythonmodels\\get_collaborative_recs.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{027E3586-DA73-40E2-B38A-DF7F4D250314}|RecommenderProject\\RecommenderProject.csproj|solutionrelative:recommenderproject\\pythonmodels\\get_collaborative_recs.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027E3586-DA73-40E2-B38A-DF7F4D250314}|RecommenderProject\\RecommenderProject.csproj|c:\\users\\jacob\\source\\repos\\recommenderproject\\backend\\recommenderproject\\recommenderproject\\models\\recommendationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027E3586-DA73-40E2-B38A-DF7F4D250314}|RecommenderProject\\RecommenderProject.csproj|solutionrelative:recommenderproject\\models\\recommendationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027E3586-DA73-40E2-B38A-DF7F4D250314}|RecommenderProject\\RecommenderProject.csproj|c:\\users\\jacob\\source\\repos\\recommenderproject\\backend\\recommenderproject\\recommenderproject\\models\\recommendationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027E3586-DA73-40E2-B38A-DF7F4D250314}|RecommenderProject\\RecommenderProject.csproj|solutionrelative:recommenderproject\\models\\recommendationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027E3586-DA73-40E2-B38A-DF7F4D250314}|RecommenderProject\\RecommenderProject.csproj|c:\\users\\jacob\\source\\repos\\recommenderproject\\backend\\recommenderproject\\recommenderproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{027E3586-DA73-40E2-B38A-DF7F4D250314}|RecommenderProject\\RecommenderProject.csproj|solutionrelative:recommenderproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027E3586-DA73-40E2-B38A-DF7F4D250314}|RecommenderProject\\RecommenderProject.csproj|c:\\users\\jacob\\source\\repos\\recommenderproject\\backend\\recommenderproject\\recommenderproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027E3586-DA73-40E2-B38A-DF7F4D250314}|RecommenderProject\\RecommenderProject.csproj|solutionrelative:recommenderproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "get_content_recs.py",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\RecommenderProject\\backend\\RecommenderProject\\RecommenderProject\\PythonModels\\get_content_recs.py",
+              "RelativeDocumentMoniker": "RecommenderProject\\PythonModels\\get_content_recs.py",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\RecommenderProject\\backend\\RecommenderProject\\RecommenderProject\\PythonModels\\get_content_recs.py",
+              "RelativeToolTip": "RecommenderProject\\PythonModels\\get_content_recs.py",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwEsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-03T15:18:03.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\RecommenderProject\\backend\\RecommenderProject\\RecommenderProject\\Program.cs",
+              "RelativeDocumentMoniker": "RecommenderProject\\Program.cs",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\RecommenderProject\\backend\\RecommenderProject\\RecommenderProject\\Program.cs",
+              "RelativeToolTip": "RecommenderProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:46:55.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "get_collaborative_recs.py",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\RecommenderProject\\backend\\RecommenderProject\\RecommenderProject\\PythonModels\\get_collaborative_recs.py",
+              "RelativeDocumentMoniker": "RecommenderProject\\PythonModels\\get_collaborative_recs.py",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\RecommenderProject\\backend\\RecommenderProject\\RecommenderProject\\PythonModels\\get_collaborative_recs.py",
+              "RelativeToolTip": "RecommenderProject\\PythonModels\\get_collaborative_recs.py",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-03T14:28:24.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecommendationResponse.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\RecommenderProject\\backend\\RecommenderProject\\RecommenderProject\\Models\\RecommendationResponse.cs",
+              "RelativeDocumentMoniker": "RecommenderProject\\Models\\RecommendationResponse.cs",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\RecommenderProject\\backend\\RecommenderProject\\RecommenderProject\\Models\\RecommendationResponse.cs",
+              "RelativeToolTip": "RecommenderProject\\Models\\RecommendationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:25:12.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecommendationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\RecommenderProject\\backend\\RecommenderProject\\RecommenderProject\\Models\\RecommendationRequest.cs",
+              "RelativeDocumentMoniker": "RecommenderProject\\Models\\RecommendationRequest.cs",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\RecommenderProject\\backend\\RecommenderProject\\RecommenderProject\\Models\\RecommendationRequest.cs",
+              "RelativeToolTip": "RecommenderProject\\Models\\RecommendationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:24:49.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecommendationsController.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\RecommenderProject\\backend\\RecommenderProject\\RecommenderProject\\Controllers\\RecommendationsController.cs",
+              "RelativeDocumentMoniker": "RecommenderProject\\Controllers\\RecommendationsController.cs",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\RecommenderProject\\backend\\RecommenderProject\\RecommenderProject\\Controllers\\RecommendationsController.cs",
+              "RelativeToolTip": "RecommenderProject\\Controllers\\RecommendationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:23:55.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "get_collaborative_recs_user.py",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\RecommenderProject\\backend\\RecommenderProject\\RecommenderProject\\PythonModels\\get_collaborative_recs_user.py",
+              "RelativeDocumentMoniker": "RecommenderProject\\PythonModels\\get_collaborative_recs_user.py",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\RecommenderProject\\backend\\RecommenderProject\\RecommenderProject\\PythonModels\\get_collaborative_recs_user.py",
+              "RelativeToolTip": "RecommenderProject\\PythonModels\\get_collaborative_recs_user.py",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-03T15:01:21.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\RecommenderProject\\backend\\RecommenderProject\\RecommenderProject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RecommenderProject\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\RecommenderProject\\backend\\RecommenderProject\\RecommenderProject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RecommenderProject\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T14:47:58.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

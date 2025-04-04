@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "RecommenderProject.Controllers.RecommendationsController",
+    "Method": "GetRecommendations",
+    "RelativePath": "api/Recommendations",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RecommenderProject.Models.RecommendationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
