@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jacob\\source\\repos\\RecommenderProject\\backend\\RecommenderProject\\RecommenderProject\\RecommenderProject.csproj": {}
+    "/Users/sterling.com/RiderProjects/RecommenderProject0103/backend/RecommenderProject/RecommenderProject/RecommenderProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jacob\\source\\repos\\RecommenderProject\\backend\\RecommenderProject\\RecommenderProject\\RecommenderProject.csproj": {
+    "/Users/sterling.com/RiderProjects/RecommenderProject0103/backend/RecommenderProject/RecommenderProject/RecommenderProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jacob\\source\\repos\\RecommenderProject\\backend\\RecommenderProject\\RecommenderProject\\RecommenderProject.csproj",
+        "projectUniqueName": "/Users/sterling.com/RiderProjects/RecommenderProject0103/backend/RecommenderProject/RecommenderProject/RecommenderProject.csproj",
         "projectName": "RecommenderProject",
-        "projectPath": "C:\\Users\\jacob\\source\\repos\\RecommenderProject\\backend\\RecommenderProject\\RecommenderProject\\RecommenderProject.csproj",
-        "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jacob\\source\\repos\\RecommenderProject\\backend\\RecommenderProject\\RecommenderProject\\obj\\",
+        "projectPath": "/Users/sterling.com/RiderProjects/RecommenderProject0103/backend/RecommenderProject/RecommenderProject/RecommenderProject.csproj",
+        "packagesPath": "/Users/sterling.com/.nuget/packages/",
+        "outputPath": "/Users/sterling.com/RiderProjects/RecommenderProject0103/backend/RecommenderProject/RecommenderProject/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jacob\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/sterling.com/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,7 +36,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -74,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/sterling.com/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
