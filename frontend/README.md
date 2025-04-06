@@ -1,3 +1,11 @@
+*****PLEASE READ ******
+
+In order to get the .sav files, you'll need to run the ipynb file on your local computer. You can then move them into the backend folder titled PythonModels. The recommender will function after following these steps. Thanks!
+
+*****PLEASE READ ******
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
